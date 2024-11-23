@@ -1,5 +1,5 @@
 ## DELI Lab @ NTU Singapore
-The Design of Electrochemical Interfaces (DELI) Lab is a newly established research group in the School of Chemistry, Chemical Engineering and Biotechnology at NTU Singapore. The overarching goal of our research group is to obtain a molecular level understanding of chemical reactivity at electrochemical interfaces for applications in energy storage and industrial decarbonization. Visit our [website] (https://www.deli-lab.org/) to learn more about the group!
+The Design of Electrochemical Interfaces (DELI) Lab is a newly established research group in the School of Chemistry, Chemical Engineering and Biotechnology at NTU Singapore. The overarching goal of our research group is to obtain a molecular level understanding of chemical reactivity at electrochemical interfaces for applications in energy storage and industrial decarbonization. Visit our [website](https://www.deli-lab.org/) to learn more about the group!
 
 We strive to make our research open access and reproducible. This includes raw data generated from the simulations, analysis scripts, new software packages and code to reproduce figures in our manuscripts.
 
